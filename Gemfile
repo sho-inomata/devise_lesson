@@ -38,7 +38,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 
 gem 'devise'
 
-gem 'nokogiri', '~> 1.11.0.rc1'
+gem 'nokogiri', '~> 1.12.5'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
